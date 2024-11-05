@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif; /* Basic font */
+    background-color: lightblue; /* Light background */
+    margin: 0;
+    padding: 20px;
+}
+
+.navbar {
+    display: inline; /* Inline navbar */
+}
+
+.nav-item {
+    margin-right: 10px; /* Space between items */
+}
+
+.nav-link {
+    color: red; /* Link color */
+    text-decoration: none; /* No underline */
+}
+
+.section-title {
+    color: red; /* Title color */
+}
+
+.section-title:hover {
+    color: lightcoral; /* Change color on hover */
+}
